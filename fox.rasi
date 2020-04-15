@@ -1,7 +1,7 @@
 configuration {
   show-icons: true;
   //icon-theme: "Papirus";
-  font: "SauceCodePro Nerd Font Regular 10";
+  font: "SauceCodePro Nerd Font Medium 10";
   drun-display-format: "{icon} {name}";
   display-run: " ";
   display-drun: " ";
@@ -13,7 +13,7 @@ configuration {
   bg-alt: #000;
   fg: #D8DEE9;
   fg-alt: #FFF;
-  background-color: #142D4C22;
+  background-color: #142D4C55;
   border: 0;
   padding: 0;
   margin: 0;
@@ -35,11 +35,12 @@ mainbox {
 
 listview {
   columns: 1;
+  padding: 0 0 0 0;
 }
 
 element {
   orientation: vertical;
-  padding: 12;
+  padding: 12 12 12 8;
   text-color: @fg;
 }
 
@@ -56,7 +57,8 @@ inputbar {
 prompt {
   enabled: true;
   text-color: @fg;
-  padding: 12 0 0 12;
+  padding: 12 0 0 8;
+  font: "SauceCodePro Nerd Font Medium 11";
 }
 
 entry {
