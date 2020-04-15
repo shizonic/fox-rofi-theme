@@ -7,7 +7,7 @@
 - [Polybar Fox](https://github.com/Murzchnvok/polybar-fox)
 
 ## Wallpaper
-- [wallpapersden](https://wallpapersden.com/adventures-lonely-night-out-wallpaper/)
+- [wallpapersden](https://wallpapersden.com/trip-night-wallpaper/)
 
 ## Icon Pack
 - [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
